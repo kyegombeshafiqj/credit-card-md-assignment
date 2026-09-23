@@ -1,7 +1,4 @@
-# credit-card-md-assignment
-# credit-card-md-assignment
-Yes. A shorter README with simple student-level wording will look more natural. I’d avoid explaining every line and focus on **what the program does, what each function does, and how validation works**.
-
+KYEGOMBE SHAFIQ J 25/U/08737/PS BCCE
 # Credit Card Number Validation
 
 ## Introduction
